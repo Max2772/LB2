@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=address CMakeFiles/app.dir/84.cpp.o -o app 

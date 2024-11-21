@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/user/Documents/453502/ОАиП/LR2/Task_8/build",
+  "command": "/usr/bin/clang++-18    -fsanitize=leak -g -std=gnu++11 -o CMakeFiles/app.dir/81.cpp.o -c /home/user/Documents/453502/ОАиП/LR2/Task_8/8.1/81.cpp",
+  "file": "/home/user/Documents/453502/ОАиП/LR2/Task_8/8.1/81.cpp",
+  "output": "CMakeFiles/app.dir/81.cpp.o"
+}
+]

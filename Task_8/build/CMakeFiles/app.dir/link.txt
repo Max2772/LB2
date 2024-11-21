@@ -1,0 +1,1 @@
+/usr/bin/clang++-18  -fsanitize=leak -g CMakeFiles/app.dir/81.cpp.o -o app 

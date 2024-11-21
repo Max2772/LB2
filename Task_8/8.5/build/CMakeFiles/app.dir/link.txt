@@ -1,0 +1,1 @@
+/usr/bin/c++  -fsanitize=leak CMakeFiles/app.dir/85.cpp.o -o app 
